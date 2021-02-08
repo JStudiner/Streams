@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "Hello",
+      "description": "my name",
+      "id": 8
+    },
+    {
+      "title": "New Stream",
+      "description": "Ima fuck with you",
+      "id": 9
+    },
+    {
+      "title": "Camgirl stream",
+      "description": "watch me refactor some components",
+      "userId": "106750094481502989236",
+      "id": 14
+    }
+  ]
+}
